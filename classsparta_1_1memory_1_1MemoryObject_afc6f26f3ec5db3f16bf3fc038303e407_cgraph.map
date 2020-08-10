@@ -1,0 +1,5 @@
+<map id="sparta::memory::MemoryObject::read" name="sparta::memory::MemoryObject::read">
+<area shape="rect" id="node1" title="Reads memory." alt="" coords="5,39,205,80"/>
+<area shape="rect" id="node2" href="$classsparta_1_1memory_1_1MemoryObject.html#aef9982cc3c775886419ff0aa043f24c3" title="Get the fill pattern. Fewer than 8 bytes may be used. See getFillPatternSize." alt="" coords="253,5,453,47"/>
+<area shape="rect" id="node3" href="$classsparta_1_1memory_1_1MemoryObject.html#ae9ec4447696bc3d179149c70fe5f9a05" title="Get the number of bytes in the fill pattern." alt="" coords="253,71,453,112"/>
+</map>

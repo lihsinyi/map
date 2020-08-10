@@ -1,0 +1,4 @@
+<map id="sparta::memory::MemoryObject::getDMI_DEPRECATED" name="sparta::memory::MemoryObject::getDMI_DEPRECATED">
+<area shape="rect" id="node1" title="Return a DMI if possible." alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node2" href="$classsparta_1_1memory_1_1DMI__DEPRECATED.html#ad2d12fba165edb200c5c159be615872a" title="must set the dmi pointer at least once. The dmi is invalid until this has been executed." alt="" coords="253,5,393,47"/>
+</map>

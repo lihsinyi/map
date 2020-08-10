@@ -1,0 +1,10 @@
+<map id="sparta::UniqueEvent&lt; sched_phase_T &gt;" name="sparta::UniqueEvent&lt; sched_phase_T &gt;">
+<area shape="rect" id="node1" title="A type of Event that uniquely schedules itself on the schedule within a single time quantum...." alt="" coords="191,379,330,420"/>
+<area shape="rect" id="node2" href="$classsparta_1_1PhasedUniqueEvent.html" title="A type of Event that uniquely schedules itself on the schedule within a single time quantum...." alt="" coords="169,304,352,331"/>
+<area shape="rect" id="node3" href="$classsparta_1_1EventNode.html" title="EventNode is the base class for all event types in SPARTA. Not to be used by the modeler...." alt="" coords="117,229,245,256"/>
+<area shape="rect" id="node4" href="$classsparta_1_1TreeNode.html" title="Node in a composite tree representing a sparta Tree item." alt="" coords="120,155,241,181"/>
+<area shape="rect" id="node5" href="$classsparta_1_1ResourceContainer.html" title="PhasedObject which can hold 0 or 1 Resource pointers to an associatedresource. Contains logic for set..." alt="" coords="5,80,180,107"/>
+<area shape="rect" id="node6" href="$classsparta_1_1PhasedObject.html" title="Object having a specific phase in the sparta construction paradigm." alt="" coords="19,5,166,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="205,80,335,107"/>
+<area shape="rect" id="node8" href="$classsparta_1_1Scheduleable.html" title="A class that defines the basic scheduling interface to the Scheduler. Not intended to be used by mode..." alt="" coords="269,229,412,256"/>
+</map>

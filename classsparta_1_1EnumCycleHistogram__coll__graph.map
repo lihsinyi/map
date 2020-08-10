@@ -1,0 +1,11 @@
+<map id="sparta::EnumCycleHistogram&lt; EnumType &gt;" name="sparta::EnumCycleHistogram&lt; EnumType &gt;">
+<area shape="rect" id="node1" title="EnumCycleHistogram class for C++ Enum values." alt="" coords="86,565,275,607"/>
+<area shape="rect" id="node2" href="$classsparta_1_1TreeNode.html" title="Node in a composite tree representing a sparta Tree item." alt="" coords="120,157,241,184"/>
+<area shape="rect" id="node9" href="$classsparta_1_1InstrumentationNode.html" title="Base class requiring." alt="" coords="203,233,388,260"/>
+<area shape="rect" id="node3" href="$classsparta_1_1ResourceContainer.html" title="PhasedObject which can hold 0 or 1 Resource pointers to an associatedresource. Contains logic for set..." alt="" coords="5,81,180,108"/>
+<area shape="rect" id="node4" href="$classsparta_1_1PhasedObject.html" title="Object having a specific phase in the sparta construction paradigm." alt="" coords="19,5,166,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="205,81,335,108"/>
+<area shape="rect" id="node6" href="$classsparta_1_1CycleHistogramBase.html" title="CycleHistogramBase class for uint64_t values." alt="" coords="202,489,389,516"/>
+<area shape="rect" id="node7" href="$classsparta_1_1CycleCounter.html" title="Represents a cycle counter." alt="" coords="225,385,366,412"/>
+<area shape="rect" id="node8" href="$classsparta_1_1CounterBase.html" title="The base class for all Counters." alt="" coords="226,309,365,336"/>
+</map>

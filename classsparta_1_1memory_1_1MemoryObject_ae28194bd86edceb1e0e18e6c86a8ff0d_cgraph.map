@@ -1,0 +1,4 @@
+<map id="sparta::memory::MemoryObject::stringize" name="sparta::memory::MemoryObject::stringize">
+<area shape="rect" id="node1" title="Render description of this MemoryObject as a string." alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node2" href="$classsparta_1_1memory_1_1MemoryObject.html#af86c4cce457c759c77d8bdba93f9aaa6" title="Returns the number of blocks in this memory object." alt="" coords="253,5,453,47"/>
+</map>
